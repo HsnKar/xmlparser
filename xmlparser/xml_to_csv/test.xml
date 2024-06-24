@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mdc SYSTEM "MeasDataCollection.dtd"><mdc>
+<mfh>
+<cbt>202406190000</cbt>
+</mfh>
+<md>
+<mi>
+<mts>202406190000</mts>
+<gp>60</gp>
+<mt>2G subscriber IMSI Attached  Rate</mt>
+<mt>3G subscriber IMSI Attached  Rate</mt>
+<mt>Number of 2G Emergency Users</mt>
+<mt>Number of 2G IMSI Attached Subscribers in VLR</mt>
+<mt>Number of 2G Subscribers in VLR</mt>
+<mt>Number of 3G Emergency Users</mt>
+<mt>Number of 3G IMSI Attached Subscribers in VLR</mt>
+<mt>Number of 3G Subscribers in VLR</mt>
+<mt>Number of ALS Subscribers in VLR</mt>
+<mt>Number of AoCC Subscribers in VLR</mt>
+<mt>Number of AoCI Subscribers in VLR</mt>
+<mt>Number of A Subscribers in CCBS</mt>
+<mt>Number of BAOC Subscribers in VLR</mt>
+<mt>Number of BOIC Subscribers in VLR</mt>
+<mt>Number of BOIC_EXHC Subscribers in VLR</mt>
+<mt>Number of B Subscribers in CCBS</mt>
+<mt>Number of CFB Subscribers in VLR</mt>
+<mt>Number of CFNRc Subscribers in VLR</mt>
+<mt>Number of CFNRy Subscribers in VLR</mt>
+<mt>Number of CFU Subscribers in VLR</mt>
+<mt>Number of CLIP Subscribers in VLR</mt>
+<mt>Number of CLIR Subscribers in VLR</mt>
+<mt>Number of CNAP Subscribers in VLR</mt>
+<mt>Number of Common Users</mt>
+<mt>Number of COLP Subscribers in VLR</mt>
+<mt>Number of COLR Subscribers in VLR</mt>
+<mt>Number of CT Subscribers in VLR</mt>
+<mt>Number of CUG Subscribers in VLR</mt>
+<mt>Number of CW Subscribers in VLR</mt>
+<mt>Number of Data Service Subscribers in VLR</mt>
+<mt>Number of D_CSI Subscribers in VLR</mt>
+<mt>Number of Emergency Users</mt>
+<mt>Number of GPRS Subscribers in VLR</mt>
+<mt>Number of Hot Billing Subscribers in VLR</mt>
+<mt>Number of HOLD Subscribers in VLR</mt>
+<mt>Number of IMSI Attached International Roaming 2G Subscribers in VLR</mt>
+<mt>Number of IMSI Attached International Roaming 3G Subscribers in VLR</mt>
+<mt>Number of IMSI Attached International Roaming Subscribers in VLR</mt>
+<mt>Number of IMSI Attached National Roaming 2G Subscribers in VLR</mt>
+<mt>Number of IMSI Attached National Roaming 3G Subscribers in VLR</mt>
+<mt>Number of IMSI Attached National Roaming Subscribers in VLR</mt>
+<mt>Number of IMSI Attached SIM Subscribers in VLR</mt>
+<mt>Number of IMSI Attached Subscribers in VLR</mt>
+<mt>Number of IMSI Attached USIM Subscribers in VLR</mt>
+<mt>Number of IMSI Detached Subscribers in VLR</mt>
+<mt>Number of IM-SSF Subscribers Stored Separately in VLR</mt>
+<mt>Number of International Roaming 2G Subscribers in VLR</mt>
+<mt>Number of International Roaming 3G Subscribers in VLR</mt>
+<mt>Number of International Roaming Subscribers in VLR</mt>
+<mt>Number of Inter-MSC Location Update Subscribers Assigned Local NRIs in VLR</mt>
+<mt>Number of IN Subscribers in VLR</mt>
+<mt>Number of LCS Subscribers in VLR</mt>
+<mt>Number of Local IN Subscribers in VLR</mt>
+<mt>Number of Local Subscribers in VLR</mt>
+<mt>Number of MO_SMS_CSI Subscribers in VLR</mt>
+<mt>Number of MPTY Subscribers in VLR</mt>
+<mt>Number of MT_SMS_CSI Subscribers in VLR</mt>
+<mt>Number of M_CSI Subscribers in VLR</mt>
+<mt>Number of non-SGs Associated CSFB Subscribers</mt>
+<mt>Number of National Roaming 2G Subscribers in VLR</mt>
+<mt>Number of National Roaming 3G Subscribers in VLR</mt>
+<mt>Number of National Roaming Subscribers in VLR</mt>
+<mt>Number of Number Range-triggered PPS Subscribers in VLR</mt>
+<mt>Number of ODB ECT Barred Subscribers (ECT Initiator Charged for at Least One Call)</mt>
+<mt>Number of ODB ECT Barred Subscribers (ECT Initiator Charged for Both Calls)</mt>
+<mt>Number of ODB ECT Barred Subscribers (Initiator Charged for at Least One Call at International Rate)</mt>
+<mt>Number of ODB ECT Barred Subscribers (Initiator Charged for at Least One Call at Inter-Zonal Rate)</mt>
+<mt>Number of ODB Subscribers in VLR</mt>
+<mt>Number of ODB Subscribers Not Allowed to Originate Multiple ECT Services</mt>
+<mt>Number of ODB_BAOC Subscribers in VLR</mt>
+<mt>Number of ODB_BOICEXHC Subscribers in VLR</mt>
+<mt>Number of ODB_BOIC Subscribers in VLR</mt>
+<mt>Number of OTHER_PLMN Subscribers in VLR</mt>
+<mt>Number of OWN_PLMN Subscribers in VLR</mt>
+<mt>Number of O_CSI Subscribers in VLR</mt>
+<mt>Number of Pooled CS Subscribers</mt>
+<mt>Number of POOL Subscribers in VLR</mt>
+<mt>Number of Roaming IN Subscribers in VLR</mt>
+<mt>Number of Roaming Subscribers in VLR</mt>
+<mt>Number of SGs Associated CSFB Proxy Subscribers</mt>
+<mt>Number of SGs Subscribers in VLR</mt>
+<mt>Number of SIM Subscribers in VLR</mt>
+<mt>Number of SIP Subscribers in VLR</mt>
+<mt>Number of SS_CSI Subscribers in VLR</mt>
+<mt>Number of Subscribers with All ODB ECT Services Barred</mt>
+<mt>Number of Subscribers with All Outgoing Calls Barred When Roaming Outside the HPLMN Country</mt>
+<mt>Number of Super-Charger Subscribers</mt>
+<mt>Number of Super-Charger Subscribers Moved to Purge for Long Time No Action</mt>
+<mt>Number of Super-Charger Subscribers Not Act in Local Office by CancelLocation Notice</mt>
+<mt>Number of Super-Charger Subscribers Not Act in Local Office by SendIdentification notice</mt>
+<mt>Number of Unknown Subscribers in VLR</mt>
+<mt>Number of USIM Subscribers in VLR</mt>
+<mt>Number of VP Dual-Number Subscribers in VLR</mt>
+<mt>Number of VT_CSI Subscribers in VLR</mt>
+<mt>Peak Number of VLR Subscribers</mt>
+<mt>Total Number of IM-SSF Subscribers in VLR</mt>
+<mt>Total Number of Subscribers in VLR</mt>
+<mt>VLR Subscribers Restored for Anchor</mt>
+<mv>
+<moid>MSOFTX/Local Zone:LABEL=0, STATICAREAX=0</moid>
+<r>81.353</r>
+<r>77.609</r>
+<r>0</r>
+<r>5807</r>
+<r>7138</r>
+<r>0</r>
+<r>522018</r>
+<r>672622</r>
+<r>0</r>
+<r>0</r>
+<r>3</r>
+<r>0</r>
+<r>633</r>
+<r>300</r>
+<r>424</r>
+<r>4</r>
+<r>622206</r>
+<r>622349</r>
+<r>622231</r>
+<r>259</r>
+<r>677890</r>
+<r>676046</r>
+<r>0</r>
+<r>680147</r>
+<r>183</r>
+<r>114</r>
+<r>84</r>
+<r>7</r>
+<r>172176</r>
+<r>3991</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>676759</r>
+<r>36</r>
+<r>4188</r>
+<r>4392</r>
+<r>0</r>
+<r>0</r>
+<r>114</r>
+<r>6149</r>
+<r>528167</r>
+<r>522018</r>
+<r>151980</r>
+<r>0</r>
+<r>45</r>
+<r>4914</r>
+<r>5137</r>
+<r>0</r>
+<r>676447</r>
+<r>254</r>
+<r>674375</r>
+<r>674896</r>
+<r>0</r>
+<r>629278</r>
+<r>0</r>
+<r>0</r>
+<r>35552</r>
+<r>0</r>
+<r>0</r>
+<r>114</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>21231</r>
+<r>0</r>
+<r>368</r>
+<r>30</r>
+<r>20606</r>
+<r>5137</r>
+<r>675010</r>
+<r>676447</r>
+<r>507356</r>
+<r>669062</r>
+<r>2072</r>
+<r>5251</r>
+<r>0</r>
+<r>136895</r>
+<r>7525</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>387</r>
+<r>672622</r>
+<r>0</r>
+<r>0</r>
+<r>680425</r>
+<r>0</r>
+<r>680147</r>
+<r>0</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>NEW_MSC1/Local Zone:LABEL=0, STATICAREAX=0</moid>
+<r>84.517</r>
+<r>78.879</r>
+<r>0</r>
+<r>4547</r>
+<r>5380</r>
+<r>0</r>
+<r>531204</r>
+<r>673440</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>456</r>
+<r>131</r>
+<r>628</r>
+<r>1</r>
+<r>813990</r>
+<r>814039</r>
+<r>814017</r>
+<r>37</r>
+<r>845289</r>
+<r>844811</r>
+<r>0</r>
+<r>845928</r>
+<r>101</r>
+<r>748</r>
+<r>37</r>
+<r>1</r>
+<r>287165</r>
+<r>2858</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>844408</r>
+<r>19</r>
+<r>1252</r>
+<r>2693</r>
+<r>0</r>
+<r>0</r>
+<r>34</r>
+<r>4715</r>
+<r>673301</r>
+<r>531204</r>
+<r>172627</r>
+<r>0</r>
+<r>22</r>
+<r>1601</r>
+<r>3208</r>
+<r>0</r>
+<r>844684</r>
+<r>159</r>
+<r>842643</r>
+<r>842686</r>
+<r>0</r>
+<r>832168</r>
+<r>0</r>
+<r>0</r>
+<r>29831</r>
+<r>0</r>
+<r>0</r>
+<r>34</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>5513</r>
+<r>0</r>
+<r>88</r>
+<r>23</r>
+<r>5191</r>
+<r>3208</r>
+<r>842720</r>
+<r>844684</r>
+<r>0</r>
+<r>0</r>
+<r>2041</r>
+<r>3242</r>
+<r>0</r>
+<r>137084</r>
+<r>5573</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>193</r>
+<r>673440</r>
+<r>0</r>
+<r>0</r>
+<r>846036</r>
+<r>0</r>
+<r>845928</r>
+<r>0</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>NEW_MSC3/Local Zone:LABEL=0, STATICAREAX=0</moid>
+<r>84.462</r>
+<r>76.726</r>
+<r>0</r>
+<r>2120</r>
+<r>2510</r>
+<r>0</r>
+<r>443325</r>
+<r>577800</r>
+<r>0</r>
+<r>0</r>
+<r>4</r>
+<r>0</r>
+<r>451</r>
+<r>8</r>
+<r>129</r>
+<r>13</r>
+<r>550729</r>
+<r>550757</r>
+<r>550735</r>
+<r>21</r>
+<r>579844</r>
+<r>579241</r>
+<r>0</r>
+<r>580558</r>
+<r>26</r>
+<r>79</r>
+<r>28</r>
+<r>1</r>
+<r>174940</r>
+<r>1592</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>579184</r>
+<r>10</r>
+<r>1601</r>
+<r>1691</r>
+<r>0</r>
+<r>0</r>
+<r>100</r>
+<r>2348</r>
+<r>445673</r>
+<r>443325</r>
+<r>134885</r>
+<r>0</r>
+<r>11</r>
+<r>1921</r>
+<r>2013</r>
+<r>0</r>
+<r>578982</r>
+<r>168</r>
+<r>578379</r>
+<r>578445</r>
+<r>0</r>
+<r>566758</r>
+<r>0</r>
+<r>0</r>
+<r>16844</r>
+<r>0</r>
+<r>0</r>
+<r>100</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>4601</r>
+<r>0</r>
+<r>80</r>
+<r>15</r>
+<r>4429</r>
+<r>2013</r>
+<r>578545</r>
+<r>578982</r>
+<r>505236</r>
+<r>577775</r>
+<r>603</r>
+<r>2113</r>
+<r>0</r>
+<r>58272</r>
+<r>2758</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>248</r>
+<r>577800</r>
+<r>0</r>
+<r>0</r>
+<r>580636</r>
+<r>0</r>
+<r>580558</r>
+<r>0</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>vMSC3/Local Zone:LABEL=0, STATICAREAX=0</moid>
+<r>86.312</r>
+<r>76.946</r>
+<r>0</r>
+<r>1526</r>
+<r>1768</r>
+<r>0</r>
+<r>276787</r>
+<r>359716</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>258</r>
+<r>1</r>
+<r>60</r>
+<r>7</r>
+<r>344045</r>
+<r>344060</r>
+<r>344052</r>
+<r>17</r>
+<r>361156</r>
+<r>360916</r>
+<r>0</r>
+<r>361621</r>
+<r>13</r>
+<r>21</r>
+<r>11</r>
+<r>0</r>
+<r>109519</r>
+<r>828</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>360765</r>
+<r>2</r>
+<r>773</r>
+<r>827</r>
+<r>0</r>
+<r>0</r>
+<r>43</r>
+<r>1646</r>
+<r>278433</r>
+<r>276787</r>
+<r>83188</r>
+<r>0</r>
+<r>5</r>
+<r>975</r>
+<r>1032</r>
+<r>1</r>
+<r>360746</r>
+<r>93</r>
+<r>360486</r>
+<r>360546</r>
+<r>0</r>
+<r>353320</r>
+<r>0</r>
+<r>0</r>
+<r>11780</r>
+<r>0</r>
+<r>0</r>
+<r>43</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>2866</r>
+<r>0</r>
+<r>60</r>
+<r>9</r>
+<r>2749</r>
+<r>1032</r>
+<r>360589</r>
+<r>360746</r>
+<r>310481</r>
+<r>359584</r>
+<r>260</r>
+<r>1075</r>
+<r>0</r>
+<r>39246</r>
+<r>1905</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>137</r>
+<r>359716</r>
+<r>0</r>
+<r>0</r>
+<r>361862</r>
+<r>0</r>
+<r>361621</r>
+<r>0</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>vMSC2/Local Zone:LABEL=0, STATICAREAX=0</moid>
+<r>82.398</r>
+<r>77.852</r>
+<r>0</r>
+<r>1821</r>
+<r>2210</r>
+<r>0</r>
+<r>234074</r>
+<r>300666</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>344</r>
+<r>126</r>
+<r>225</r>
+<r>2</r>
+<r>279090</r>
+<r>279187</r>
+<r>279116</r>
+<r>111</r>
+<r>301825</r>
+<r>300703</r>
+<r>0</r>
+<r>303049</r>
+<r>85</r>
+<r>37</r>
+<r>57</r>
+<r>6</r>
+<r>76878</r>
+<r>2239</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>301259</r>
+<r>18</r>
+<r>2270</r>
+<r>2385</r>
+<r>0</r>
+<r>0</r>
+<r>44</r>
+<r>1976</r>
+<r>236050</r>
+<r>234074</r>
+<r>66999</r>
+<r>0</r>
+<r>24</r>
+<r>2684</r>
+<r>2810</r>
+<r>6</r>
+<r>300953</r>
+<r>165</r>
+<r>299946</r>
+<r>300195</r>
+<r>0</r>
+<r>278119</r>
+<r>0</r>
+<r>0</r>
+<r>23133</r>
+<r>0</r>
+<r>0</r>
+<r>44</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>10475</r>
+<r>0</r>
+<r>186</r>
+<r>19</r>
+<r>10146</r>
+<r>2810</r>
+<r>300239</r>
+<r>300953</r>
+<r>189954</r>
+<r>296256</r>
+<r>1007</r>
+<r>2854</r>
+<r>0</r>
+<r>89754</r>
+<r>2383</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>0</r>
+<r>173</r>
+<r>300666</r>
+<r>0</r>
+<r>0</r>
+<r>303192</r>
+<r>0</r>
+<r>303049</r>
+<r>0</r>
+<sf>false</sf>
+</mv>
+</mi>
+</md>
+<mff>
+<ts>202406190100</ts>
+</mff>
+</mdc>
